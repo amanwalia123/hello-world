@@ -3,9 +3,7 @@
 
 # Given Name:  Amanpreet
 
-# Student Number: 212938734
-
-# CSE Login:      apsw02
+#
 */
 
 #include "sch-helpers.h"
